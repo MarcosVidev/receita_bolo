@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Receita de bolo de cenoura</h1>
+    </header>
+    <main>
+        <p>com esse resultado daqui:</p>
+        <img src="../img/receita-de-bolo-de-cenoura-interna.webp" alt="Imagem bolo de cenoura" height="200">
+        <hr>
+        <h3>Massa do bolo</h3>
+        <ul>
+            <li>3 cenouras médias (raladas)</li>
+            <li>4 ovos</li>
+            <li>1 xícara (chá) de óleo</li>
+            <li>2 xícaras (chá) de açúcar</li>
+            <li>2 e 1/2 xícaras (chá) de farinha de trigo</li>
+            <li>1 colher (sopa) de fermento em pó</li>
+            <li>1 pitada de sal </li>
+        </ul>
+        <hr>
+        <h3>Cobertura de chocolate</h3>
+         <ul>
+            <li>3 colheres (sopa) de chocolate em pó</li>
+            <li>1 xícara (chá) de açúcar</li>
+            <li>1 xícara (chá) de leite</li>
+            <li>1 colher (sopa) de manteiga</li>
+        </ul>
+        <hr>
+            <h3>Modo de preparo</h3>
+        <ol>
+            <li>No liquidificador, bata a cenoura, os ovos e o óleo até ficar homogêneo.</li>
+            <li>Acrescente o açúcar e bata por mais 5 minutos.</li>
+            <li>Em uma tigela, peneire a farinha de trigo, o fermento e o sal.</li>
+            <li>Misture a mistura do liquidificador aos ingredientes secos com uma colher, até formar uma massa homogênea.</li>
+            <li>Unte e enfarinhe uma forma retangular (20 x 30 cm) e despeje a massa.</li>
+            <li>Asse em forno médio (180°C), pré-aquecido, por cerca de 40 minutos ou até o palito sair limpo.</li>
+            <li>Enquanto o bolo assa, prepare a cobertura: em uma panela, misture todos os ingredientes da cobertura e leve ao fogo médio, mexendo até engrossar.</li>
+            <li>Despeje a cobertura ainda quente sobre o bolo e deixe esfriar antes de servir.</li>
+        </ol>
+        <hr>
+    </main>
+    <footer>
+        <h3>Redes sociais</h3>
+        <a href="https://github.com/MarcosVidev" target="_blank">Github</a>
+    </footer>
+</body>
+</html>
